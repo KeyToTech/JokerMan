@@ -10,6 +10,8 @@ To grab jokes it uses these endpoint:
 - `slackbots` for slack bot API
 - `axios` for rest
 
+## Installation
+
 To install all the packages:
 
 ` npm install`
