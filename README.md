@@ -1,3 +1,5 @@
+[![Hits-of-Code](https://hitsofcode.com/github/KeyToTech/JokerMan)](https://hitsofcode.com/view/github/KeyToTech/JokerMan)
+
 # JokerMan
 This is a primitive version of slack bot to send jokes
 
